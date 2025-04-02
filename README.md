@@ -74,7 +74,9 @@ Key features include:
 
 ## File Structure
 ├── index.html # Main HTML file
+
 ├── styles.css # CSS styling
+
 └── script.js # JavaScript functionality
 
 ## Contributing
